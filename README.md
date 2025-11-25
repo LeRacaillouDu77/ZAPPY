@@ -294,11 +294,11 @@ Ce projet est développé dans le cadre du cursus EPITECH.
 
 ## 👥 Équipe
 
-Yanis Prevost
-Leo Gregori
-Tom Clerc
-Anthony Colombani-Gailleur
-Selim Bouasker
+Yanis Prevost  
+Leo Gregori  
+Tom Clerc  
+Anthony Colombani-Gailleur  
+Selim Bouasker  
 
 ---
 
